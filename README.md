@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @madhugrajan-1
 - 👀 I’m interested in web development and software engineering. 
-- 🌱 I’m currently learning Node.js and VUE.
+- 🌱 I’m currently learning Node.js and Vue.
 - 💞️ I’m looking to collaborate on app development projects. 
 - 📫 How to reach me - madhugrajan@gmail.com
 
